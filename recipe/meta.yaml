@@ -21,8 +21,6 @@ requirements:
     - python
     - pip
     - setuptools
-    - numpy
-    - scipy
   run:
     - python
     - numpy
