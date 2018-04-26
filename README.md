@@ -16,12 +16,15 @@ built on top of scipy, numpy, and ffmpeg/libav
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/sk-video-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/sk-video-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/sk-video-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/sk-video-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/sk-video/badges/version.svg)](https://anaconda.org/conda-forge/sk-video)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/sk-video/badges/downloads.svg)](https://anaconda.org/conda-forge/sk-video)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-sk--video-green.svg)](https://anaconda.org/conda-forge/sk-video) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/sk-video.svg)](https://anaconda.org/conda-forge/sk-video) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/sk-video.svg)](https://anaconda.org/conda-forge/sk-video) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/sk-video.svg)](https://anaconda.org/conda-forge/sk-video) |
 
 Installing sk-video
 ===================
